@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://hientran3001.github.io/"
 title = "Meghna"
 theme = "meghna-hugo"
 themesDir = "themes/"
