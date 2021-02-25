@@ -1,6 +1,6 @@
 # Meghna Hugo Theme
 
-Meghna Hugo  is a one page professional Hugo website template and crafted with all the necessary elements and features. Apart from the exclusive appearance, the main features of Meghna are video embedding option in the homepage, about, portfolio, service, skills, works, team, testimonial, pricing, and blog sections
+Meghna Hugo  is a one page professional Hugo website template and crafted with all the necessary elements and features. Apart from the exclusive appearance, the main features of Meghna are video embedding option in the homepage, education, portfolio, experiences, skills, works, team, testimonial, pricing, and blog sections
 
 <!-- table of content -->
 ## Table of Contents

@@ -12,10 +12,10 @@
   translation: Articles de l'auteur
 - id: all
   translation: All
-- id: about
+- id: education
   translation: À propos
-- id: services
-  translation: Services
+- id: experiences
+  translation: experiences
 - id: portfolio
   translation: Portfolio
 - id: team

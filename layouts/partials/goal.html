@@ -1,9 +1,9 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.feature.feature.enable }}
-{{ with $data.feature.feature }}
-{{"<!-- feature -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="feature">
+{{ if $data.goal.goal.enable }}
+{{ with $data.goal.goal }}
+{{"<!-- goal -->" | safeHTML}}
+<section class="section section-bg education-2 padding-0" id="goal">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
@@ -36,6 +36,6 @@
 		</div>
 	</div>
 </section>
-{{"<!-- /feature -->" | safeHTML}}
+{{"<!-- /goal -->" | safeHTML}}
 {{ end }}
 {{ end }}

@@ -7,15 +7,15 @@
 - id: share
   translation: Share
 - id: aboutAuthor
-  translation: About author
+  translation: education author
 - id: authorsPosts
   translation: Author's posts
 - id: all
   translation: All
-- id: about
-  translation: About Us
-- id: services
-  translation: Service
+- id: education
+  translation: education Us
+- id: experiences
+  translation: experiences
 - id: portfolio
   translation: Portfolio
 - id: team

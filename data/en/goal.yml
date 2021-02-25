@@ -1,0 +1,27 @@
+############################# goal ###################################
+goal:
+  enable : true
+  image : images/goal/goal2.jpg
+  image_webp : images/goal/goal2.webp
+  title : Goals
+  content :  '&quot;You can, you should, and if you’re brave enough to start, you will.&quot; – Stephen King.'
+  feature_item : 
+      # goal item loop
+    - title : Work on real projects
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Learn how to process a complete project in company. In 2-3 years, I hope to join a big project.
+      
+      # goal item loop
+    - title : Join a professional team
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : Work in an active, friendly environment. Improve teamwork skills.
+
+      # goal item loop
+    - title : Versatile developer
+      icon : ti-search # themify icon pack : https://themify.me/themify-icons
+      content : Will to update myself with new things, new fields, especially mobile development.
+      
+      # goal item loop
+    - title : Team leader
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Become a team leader under 30.

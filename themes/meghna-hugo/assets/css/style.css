@@ -385,7 +385,7 @@ a:hover {
 }
 
 .single-page-header {
-  background-image: url("../images/about/about-header.jpg");
+  background-image: url("../images/education/education-header.jpg");
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
@@ -544,9 +544,9 @@ a:hover {
 }
 
 /*=================================================================
-  About us section
+  education us section
 ==================================================================*/
-.about .block {
+.education .block {
   background: #242930;
   padding: 30px;
   border-bottom: 2px solid transparent;
@@ -554,16 +554,16 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.about .block:hover {
+.education .block:hover {
   border-bottom: 2px solid #57cbcc;
 }
 
-.about .block:hover .icon-box {
+.education .block:hover .icon-box {
   -webkit-transform: translateY(-10px);
   transform: translateY(-10px);
 }
 
-.about .block .icon-box {
+.education .block .icon-box {
   position: relative;
   width: 160px;
   height: 92.38px;
@@ -581,8 +581,8 @@ a:hover {
   transition-property: transform, -webkit-transform;
 }
 
-.about .block .icon-box:after,
-.about .block .icon-box:before {
+.education .block .icon-box:after,
+.education .block .icon-box:before {
   content: "";
   position: absolute;
   z-index: 1;
@@ -594,43 +594,43 @@ a:hover {
   transform: scaleY(0.5774) rotate(-45deg);
 }
 
-.about .block .icon-box:before {
+.education .block .icon-box:before {
   top: -56.5685px;
   border-top: 2px solid rgba(236, 239, 241, 0.07);
   border-right: 2px solid rgba(236, 239, 241, 0.07);
 }
 
-.about .block .icon-box:after {
+.education .block .icon-box:after {
   bottom: -56.5685px;
   border-bottom: 2px solid rgba(236, 239, 241, 0.07);
   border-left: 2px solid rgba(236, 239, 241, 0.07);
 }
 
-.about .block .icon-box h3 {
+.education .block .icon-box h3 {
   color: #afbac4;
 }
 
 /*=================================================================
-  About us 2 section
+  education us 2 section
 ==================================================================*/
-.about-2 .content-block {
+.education-2 .content-block {
   padding: 40px;
 }
 
-.about-2 .content-block .media {
+.education-2 .content-block .media {
   margin-top: 25px;
 }
 
-.about-2 .content-block .media .pull-left {
+.education-2 .content-block .media .pull-left {
   padding-right: 15px;
 }
 
-.about-2 .content-block .media i {
+.education-2 .content-block .media i {
   font-size: 30px;
   color: #57cbcc;
 }
 
-.about-2 .content-block .media h4 {
+.education-2 .content-block .media h4 {
   font-size: 16px;
   font-weight: 600;
 }
@@ -943,9 +943,9 @@ a:hover {
 }
 
 /*=================================================================
-  Services section
+  experiences section
 ==================================================================*/
-.service-block {
+.experiences-block {
   padding: 60px 20px;
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
@@ -953,32 +953,32 @@ a:hover {
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
 
-.service-block .service-icon {
+.experiences-block .experiences-icon {
   margin-bottom: 10px;
   font-size: 50px;
 }
 
 /*=================================================================
-  Services section 2
+  experiences section 2
 ==================================================================*/
-.service-2 .service-item {
+.experiences-2 .experiences-item {
   border: 1px solid #eee;
   margin-bottom: 30px;
   padding: 50px 20px;
   transition: all 0.3s ease 0s;
 }
 
-.service-2 .service-item:hover {
+.experiences-2 .experiences-item:hover {
   box-shadow: 0 5px 65px 0 rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: 0 5px 65px 0 rgba(0, 0, 0, 0.15);
 }
 
-.service-2 .service-item:hover i {
+.experiences-2 .experiences-item:hover i {
   background: #fff;
   color: #57cbcc;
 }
 
-.service-2 .service-item i {
+.experiences-2 .experiences-item i {
   font-size: 30px;
   display: inline-block;
   background: #57cbcc none repeat scroll 0 0;
@@ -1359,7 +1359,7 @@ a:hover {
   margin-top: 35px;
 }
 
-.author-about {
+.author-education {
   margin-top: 40px;
 }
 
@@ -1912,7 +1912,7 @@ blockquote {
 }
 
 .comment-reply-form>h3,
-.author-about>h4,
+.author-education>h4,
 .comments>h4 {
   border-bottom: 1px solid #4e595f;
   margin-bottom: 15px;

@@ -43,15 +43,15 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "education"
 pre = "#"
-url = "about"
+url = "education"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "experiences"
 pre = "#"
-url = "services"
+url = "experiences"
 weight = 2
 
 [[Languages.en.menu.main]]
@@ -95,13 +95,13 @@ weight = 8
 [[Languages.fr.menu.main]]
 name = "sur"
 pre = "#"
-url = "about"
+url = "education"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "un service"
+name = "un experiences"
 pre = "#"
-url = "services"
+url = "experiences"
 weight = 2
 
 [[Languages.fr.menu.main]]

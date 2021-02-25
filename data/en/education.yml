@@ -1,0 +1,18 @@
+############################# education ###################################
+education:
+  enable : true
+  title : Education
+  education_item :
+  - image : images/education/uit3.jpg
+    title : University of Information Technology (VNU - UIT)  
+    content : "9/2016: Started studying Computer Science (Honor Program) at UIT.
+
+
+    12/2020: Graduate as Bachelor of Science in Computer Science (Honor Program) with Very Good Classification."
+
+
+  - image : images/education/lab1.jpg
+    title : Multimedia Communications Laboratory (MMLab) - UIT
+    content : "3/2019: Started studying researching at MMLab - UIT. Improved reading, searching, presentation skills."
+
+  

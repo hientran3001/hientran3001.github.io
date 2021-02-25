@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://hientran3001.github.io/"
-title = "Meghna"
+title = "Hien Tran"
 theme = "meghna-hugo"
 themesDir = "themes/"
 # post pagination
@@ -43,27 +43,27 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "education"
 pre = "#"
-url = "about"
+url = "education"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "goal"
 pre = "#"
-url = "services"
+url = "goal"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "experiences"
 pre = "#"
-url = "portfolio"
+url = "experiences"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
+name = "skills"
 pre = "#"
-url = "team"
+url = "skills"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -90,59 +90,9 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-pre = "#"
-url = "about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "un service"
-pre = "#"
-url = "services"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-pre = "#"
-url = "portfolio"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "équipe"
-pre = "#"
-url = "team"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "tarification"
-pre = "#"
-url = "pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-
-[[Languages.fr.menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
-
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+#logo = "images/logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
@@ -204,11 +154,3 @@ weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"

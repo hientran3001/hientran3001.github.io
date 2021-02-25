@@ -1,8 +1,8 @@
-############################# About ###################################
-about:
+############################# education ###################################
+education:
   enable : true
-  title : About Us
-  about_item :
+  title : education Us
+  education_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

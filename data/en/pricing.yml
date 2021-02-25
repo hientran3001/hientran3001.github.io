@@ -7,7 +7,7 @@ pricing:
     - name : Free
       price : $99
       unit : month
-      services:
+      experiences:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
@@ -22,7 +22,7 @@ pricing:
     - name : Silver
       price : $149
       unit : month
-      services:
+      experiences:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
@@ -37,7 +37,7 @@ pricing:
     - name : Gold
       price : $199
       unit : month
-      services:
+      experiences:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
@@ -52,7 +52,7 @@ pricing:
     - name : Platinum
       price : $299
       unit : month
-      services:
+      experiences:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
