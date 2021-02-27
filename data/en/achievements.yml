@@ -1,0 +1,40 @@
+################################# achievements #################################
+achievements:
+  enable : true
+  title : Activities & Achievements
+  service_item :
+    # achievements item loop
+    - name : UIT's ACM contest
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      image: images/achievement/uit-acm10.jpg
+      content : Take part in the contest yearly and solve the number of problems enough to get participation certificate.
+      
+    # achievements item loop
+    - name : Student of 5 merits
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      image: images/achievement/sv5t2.jpg
+      content : '2018: get &quot;Student of 5 merits&quot; certificate with 5 criteria: Good academic performance, Good morality, Good skills, Good integration and  Good physicality.'
+      
+    # achievements item loop
+    - name : Blood donation
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      image: images/achievement/hienmau3.jpg
+      content : Join blood donation at university once a year.
+      
+    # achievements item loop
+    - name : Spring volunteer campaign
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      image: images/achievement/xtn6.jpg
+      content : Join Spring volunteer campaign in 2018. Do some handmade for fundraising.
+      
+    # achievements item loop
+    - name : Advanced youth following Uncle Ho’s sayings
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      image: images/achievement/tntt5.jpg
+      content : Achivem &quot;Advanced youth following Uncle Ho’s sayings&quot yearly.
+      
+    # achievements item loop
+    - name : TOEIC
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      image: images/achievement/toeic8.jpg
+      content : Scored 625 in official ETS TOEIC with 285 listening and 340 reading.

@@ -14,10 +14,10 @@
   translation: All
 - id: education
   translation: education Us
-- id: experiences
-  translation: experiences
-- id: portfolio
-  translation: Portfolio
+- id: achievements
+  translation: achievements
+- id: projects
+  translation: projects
 - id: team
   translation: Team
 - id: pricing

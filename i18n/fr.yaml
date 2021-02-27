@@ -14,10 +14,10 @@
   translation: All
 - id: education
   translation: À propos
-- id: experiences
-  translation: experiences
-- id: portfolio
-  translation: Portfolio
+- id: achievements
+  translation: achievements
+- id: projects
+  translation: projects
 - id: team
   translation: Équipe
 - id: pricing

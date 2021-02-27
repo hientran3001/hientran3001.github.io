@@ -49,15 +49,15 @@ url = "education"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "experiences"
+name = "achievements"
 pre = "#"
-url = "experiences"
+url = "achievements"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "projects"
 pre = "#"
-url = "portfolio"
+url = "projects"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -99,15 +99,15 @@ url = "education"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "un experiences"
+name = "un achievements"
 pre = "#"
-url = "experiences"
+url = "achievements"
 weight = 2
 
 [[Languages.fr.menu.main]]
 name = "portefeuille"
 pre = "#"
-url = "portfolio"
+url = "projects"
 weight = 3
 
 [[Languages.fr.menu.main]]

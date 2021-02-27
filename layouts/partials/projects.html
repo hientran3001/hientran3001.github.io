@@ -1,9 +1,9 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.portfolio.portfolio.enable }}
-{{ with $data.portfolio.portfolio }}
-{{"<!-- Portfolio Section -->" | safeHTML}}
-<section class="portfolio section" id="portfolio">
+{{ if $data.projects.projects.enable }}
+{{ with $data.projects.projects }}
+{{"<!-- projects Section -->" | safeHTML}}
+<section class="projects section" id="projects">
 	<div class="container">
 		<div class="row ">
 			<div class="col-xl-12">
@@ -18,7 +18,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="btn-group portfolio-filter btn-group-toggle justify-content-center d-flex flex-wrap"
+				<div class="btn-group projects-filter btn-group-toggle justify-content-center d-flex flex-wrap"
 					data-toggle="buttons">
 					<label class="btn active">
 						<input type="radio" name="shuffle-filter" value="all" checked="checked" />{{ i18n "all"}}
@@ -39,11 +39,11 @@
 		</div>
 
 		<div class="row shuffle-wrapper justify-content-center">
-			{{"<!-- portfolio item -->" | safeHTML}}
+			{{"<!-- projects item -->" | safeHTML}}
 			{{ range .portfolio_item }}
 			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[{{range $index, $element:= .categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
-				<div class="portfolio-block mb-4">
+				<div class="projects-block mb-4">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
 						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
@@ -65,6 +65,6 @@
 		</div>
 	</div>
 </section>
-{{"<!-- /Portfolio -->" | safeHTML}}
+{{"<!-- /projects -->" | safeHTML}}
 {{ end }}
 {{ end }}

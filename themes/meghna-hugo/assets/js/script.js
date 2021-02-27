@@ -36,7 +36,7 @@ jQuery(function ($) {
 	});
 
 	/* ========================================================================= */
-	/*	Portfolio Filtering Hook
+	/*	projects Filtering Hook
 	/* =========================================================================  */
 
 	var containerEl = document.querySelector('.shuffle-wrapper');

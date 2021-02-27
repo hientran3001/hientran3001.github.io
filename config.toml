@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://hientran3001.github.io/"
-title = "Hien Tran"
+title = "Tran Quang Hien"
 theme = "meghna-hugo"
 themesDir = "themes/"
 # post pagination
@@ -55,9 +55,9 @@ url = "goal"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "experiences"
+name = "achievements"
 pre = "#"
-url = "experiences"
+url = "achievements"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -67,28 +67,18 @@ url = "skills"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "projects"
 pre = "#"
-url = "pricing"
+url = "projects"
 weight = 5
-
-[[Languages.en.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
-weight = 7
+weight = 6
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+
 
 ############################# Default Parameters ##########################
 [params]
@@ -122,28 +112,7 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
+link = "https://www.facebook.com/tran.quanghien.39"
 
 ################################ English Language ########################
 [Languages.en]
@@ -152,5 +121,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = ""
 

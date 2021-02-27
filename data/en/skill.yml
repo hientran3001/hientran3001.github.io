@@ -1,26 +1,34 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/education/company-growth.webp
+  title : My Skills
+  subtitle : 
+  content : 
+  image : images/skill/skill3.png
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  Python
+      percent : 85%
+      
+    # skill item loop
+    - name :  C++
+      percent : 75%
+
+   # skill item loop
+    - name :  Git
+      percent : 85%
+      
+    # skill item loop
+    - name :  Teamwork
+      percent : 90%
+      
+    - name :  Problem analysis & solving
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
+    - name :  Adaptability
       percent : 95%
-      
+
     # skill item loop
-    - name :  Android Development
-      percent : 75%
+    - name :  Reading documents
+      percent : 95%

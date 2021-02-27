@@ -9,8 +9,9 @@
 			<div class="col-lg-12">
 				{{"<!-- section title -->" | safeHTML }}
 				<div class="title text-center wow fadeIn" data-wow-duration="500ms">
-					<h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
-						{{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
+					<h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}
+						<span class="color">{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }}</span>
+						{{ with .title }} {{ index (split . " ") 2 | safeHTML }} {{ end }}</h2>
 					<div class="border-meghna"></div>
 				</div>
 			</div>
@@ -19,10 +20,8 @@
 			{{ range .service_item}}
 			{{"<!-- Single achievements Item -->" | safeHTML }}
 			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="achievements-block text-center">
-					<div class="achievements-icon text-center">
-						<i class="{{ .icon }}"></i>
-					</div>
+				<div class="achievements-block text-center">					
+					<div class="hexagon"><div class="hexagon-in1"><div class="hexagon-in2"><div class="hexagon-in3" style="background-image:url('{{.image | relURL }}')"></div></div></div></div>				
 					<h3>{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
 				</div>
