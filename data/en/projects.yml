@@ -5,72 +5,72 @@ projects:
   portfolio_item :
     # projects item loop
     - name : Tag Design
-      image : images/projects/projects-1.jpg
-      image_webp : images/projects/projects-1.webp
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
       
     # projects item loop
     - name : Sound system
-      image : images/projects/projects-2.jpg
-      image_webp : images/projects/projects-2.webp
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # projects item loop
     - name : Clock Product
-      image : images/projects/projects-3.jpg
-      image_webp : images/projects/projects-3.webp
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # projects item loop
     - name : Bottol Label
-      image : images/projects/projects-4.jpg
-      image_webp : images/projects/projects-4.webp
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
       categories : ["photography", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # projects item loop
     - name : Shopping Bag
-      image : images/projects/projects-5.jpg
-      image_webp : images/projects/projects-5.webp
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # projects item loop
     - name : Tag Design
-      image : images/projects/projects-6.jpg
-      image_webp : images/projects/projects-6.webp
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
       categories : ["photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # projects item loop
     - name : Business Card
-      image : images/projects/projects-7.jpg
-      image_webp : images/projects/projects-7.webp
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # projects item loop
     - name : Stationary Design
-      image : images/projects/projects-8.jpg
-      image_webp : images/projects/projects-8.webp
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # projects item loop
     - name : Tag Design
-      image : images/projects/projects-2.jpg
-      image_webp : images/projects/projects-2.webp
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
       categories : ["design", "photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
