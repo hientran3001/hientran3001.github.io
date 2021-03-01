@@ -4,73 +4,55 @@ projects:
   title : Projects
   portfolio_item :
     # projects item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
+    - name : Image Retrieval
+      image : images/projects/ir2.jpg
+      image_webp : images/projects/ir2.jpg
+      categories : ["Web", "Computer Vision"]
+      content : A website that retrieve top images in database relevant to input image.
+      tags: Python, Django, HTML, CSS
+      link : "https://github.com/rysnee/DoAn"     
+
     # projects item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Crowd Counting
+      image : images/projects/crowd-counting.jpg
+      image_webp : images/projects/crowd-counting.jpg
+      categories : ["Web", "Computer Vision"]
+      content : Graduate thesis. Build a new database for dense crowd problem, provide baseline & evaluate on this data. Build a web application to annotate data.
+      tags: Python, Lavarel Homestead, HTML, CSS
+      link : "https://github.com/rysnee/AnnotationTool"    
+
+        # projects item loop
+    - name : Augmentic Reality
+      image : images/projects/ar1.jpg
+      image_webp : images/projects/ar1.jpg
+      categories : ["Computer Vision"]
+      content : An application that get input from laptop webcam, detect images and show 3D model on them.
+      tags: Python
+      link : ""   
+   
+    # projects item loop
+    - name : Robocode Bot
+      image : images/projects/robo1.png
+      image_webp : images/projects/robo1.png
+      categories : ["Artificial Intelligence"]
+      content : Write AI for the tank game. My tank will shoot and flee other tanks.
+      tags: Java
       link : ""
-      
+     
     # projects item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # projects item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # projects item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # projects item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # projects item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # projects item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # projects item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : Ragnarok Online
+      image : images/projects/ro.jpg
+      image_webp : images/projects/ro.jpg
+      categories : ["Game"]
+      content : Run an online server with my own customization based on rAthena (an open-source cross-platform MMORPG server).
+      tags: C++, MySQL, HTML, CSS, Ubuntu-server, Google cloud platform
+      link : ""
+
+      # projects item loop
+    - name : Dijkstra Algorithm Visualization Application
+      image : images/projects/djikstra1.jpg
+      image_webp : images/projects/djikstra1.jpg
+      categories : ["Application"]
+      content : Visualize Dijkstra Algorithm with plot input which are drawn by users.
+      tags: C++, Qt Creator
+      link : ""

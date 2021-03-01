@@ -434,16 +434,16 @@ a:hover {
   background-attachment: fixed;
 }
 
-.hero-area {
+.bg-cover {
   background-size: cover;
   height: 100vh;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-}
+  }
 
-.hero-area:before {
+.bg-cover:before {
   content: '';
   background: rgba(0, 0, 0, 0.63);
   position: absolute;
@@ -453,27 +453,19 @@ a:hover {
   left: 0;
 }
 
-.hero-area .block {
+.bg-cover .block {
   text-align: center;
+  margin-left: 450px;
   z-index: 99;
 }
 
-.hero-area .block .video-button {
-  background: #fff;
-  color: #57cbcc;
-  display: inline-block;
-  height: 60px;
-  width: 60px;
-  border-radius: 50px;
+.bg-cover .block .video-button {
+  font-size: 50px;
+  margin-top: 30px;
+  margin-bottom: -40px;
 }
 
-.hero-area .block .video-button i {
-  line-height: 60px;
-  font-size: 20px;
-  margin-left: 3px;
-}
-
-.hero-area .block h1 {
+.bg-cover .block h1 {
   font-size: 90px;
   color: #fff;
   text-transform: capitalize;
@@ -482,19 +474,19 @@ a:hover {
 }
 
 @media (max-width: 480px) {
-  .hero-area .block h1 {
+  .bg-cover .block h1 {
     font-size: 60px;
   }
 }
 
-.hero-area .block p {
+.bg-cover .block p {
   color: #fff;
   font-size: 20px;
   width: 70%;
   margin: 0 auto;
 }
 
-.hero-area .block .btn-transparent {
+.bg-cover .block .btn-transparent {
   margin-top: 40px;
   border-color: #fff;
   padding: 14px 50px;
@@ -504,7 +496,7 @@ a:hover {
   letter-spacing: 1px;
 }
 
-.hero-area-video {
+.bg-cover-video {
   height: 100vh;
   position: inherit !important;
   display: flex;
@@ -512,18 +504,18 @@ a:hover {
   align-items: center;
 }
 
-.hero-area-video .block {
+.bg-cover-video .block {
   color: #fff;
   text-align: center;
 }
 
-.hero-area-video .block h1 {
+.bg-cover-video .block h1 {
   font-size: 60px;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
-.hero-area-video .block p {
+.bg-cover-video .block p {
   color: #fff;
   text-transform: uppercase;
   font-size: 12px;
@@ -531,7 +523,7 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.hero-area-video .block .btn-main {
+.bg-cover-video .block .btn-main {
   margin-top: 20px;
 }
 
@@ -796,6 +788,11 @@ a:hover {
   margin-bottom: 25px;
 }
 
+.contact-details {
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
 .con-info {
   margin-bottom: 20px;
 }
@@ -940,12 +937,14 @@ a:hover {
 
 .projects-block:before {
   transition: all 0.3s ease-in-out;
+  height: 88%;
   background: white;
   opacity: 0;
-  top: 20px;
-  right: 20px;
-  bottom: 20px;
-  left: 20px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  border: 5px solid gray; 
   position: absolute;
   content: '';
 }
@@ -960,33 +959,35 @@ a:hover {
 }
 
 .projects-block:hover .caption h4 {
-  top: 45%;
+  opacity: 1;
+  top: 45%;  
 }
 
-.projects-block:hover .caption {
-  opacity: 1;
-  top: 55%;
+.projects-block:hover .caption {  
+  opacity: 1; 
+  top: 55%;  
 }
 
 .projects-block .caption {
-  position: absolute;
-  top: 50%;
-  left: 50%;
+  position: absolute;   
+  top: 50%; 
+  left: 30%;  
   opacity: 0;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-20%, -50%);
+  transform: translate(-20%, -50%);
   z-index: 9;
   transition: all 0.2s ease-in-out;
   text-align: center;
+  font-size: 15px;
 }
 
 .projects-block .caption h4 {
-  font-size: 16px;
   font-weight: 600;
 }
 
 .projects-block .caption h4 a {
   color: #555;
+  font-size: 30px;
 }
 
 .projects-block .caption .search-icon {

@@ -1,12 +1,13 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
+  bg_image_webp : "images/backgrounds/bg-cover.webp"
+  bg_image : "images/backgrounds/bg-cover.jpg"
+  icon : "ti-angle-double-down" # themify icon pack : https://themify.me/themify-icons
   title : "TRAN QUANG HIEN"
-  content : "Life is like riding a bicycle. To keep your balance, you must keep moving. - Albert Einstein -"
+  quote: "Life is like riding a bicycle. To keep your balance, you must keep moving. - Albert Einstein -"
+  content : "Besides majoring in Computer Vision, I also learned more about website and application programming. As a graduate student, I always want to put the knowledge I learned in school into practice. With the dynamism, creativity and enthusiasm of youth, I hope to do things useful to the community."
   button:
     enable : true
     label : "ABOUT ME"
-    link : "#education"
+    link : "#goal"

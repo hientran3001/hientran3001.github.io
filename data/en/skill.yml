@@ -30,5 +30,5 @@ skill:
       percent : 95%
 
     # skill item loop
-    - name :  Reading documents
-      percent : 95%
+    - name :  Research
+      percent : 90%

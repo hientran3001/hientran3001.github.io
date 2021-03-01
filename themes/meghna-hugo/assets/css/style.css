@@ -434,7 +434,7 @@ a:hover {
   background-attachment: fixed;
 }
 
-.hero-area {
+.bg-cover {
   background-size: cover;
   height: 100vh;
   position: relative;
@@ -443,7 +443,7 @@ a:hover {
   align-items: center;
 }
 
-.hero-area:before {
+.bg-cover:before {
   content: '';
   background: rgba(0, 0, 0, 0.63);
   position: absolute;
@@ -453,12 +453,12 @@ a:hover {
   left: 0;
 }
 
-.hero-area .block {
+.bg-cover .block {
   text-align: center;
   z-index: 99;
 }
 
-.hero-area .block .video-button {
+.bg-cover .block .video-button {
   background: #fff;
   color: #57cbcc;
   display: inline-block;
@@ -467,13 +467,13 @@ a:hover {
   border-radius: 50px;
 }
 
-.hero-area .block .video-button i {
+.bg-cover .block .video-button i {
   line-height: 60px;
   font-size: 20px;
   margin-left: 3px;
 }
 
-.hero-area .block h1 {
+.bg-cover .block h1 {
   font-size: 90px;
   color: #fff;
   text-transform: capitalize;
@@ -482,19 +482,19 @@ a:hover {
 }
 
 @media (max-width: 480px) {
-  .hero-area .block h1 {
+  .bg-cover .block h1 {
     font-size: 60px;
   }
 }
 
-.hero-area .block p {
+.bg-cover .block p {
   color: #fff;
   font-size: 20px;
   width: 70%;
   margin: 0 auto;
 }
 
-.hero-area .block .btn-transparent {
+.bg-cover .block .btn-transparent {
   margin-top: 40px;
   border-color: #fff;
   padding: 14px 50px;
@@ -504,7 +504,7 @@ a:hover {
   letter-spacing: 1px;
 }
 
-.hero-area-video {
+.bg-cover-video {
   height: 100vh;
   position: inherit !important;
   display: flex;
@@ -512,18 +512,18 @@ a:hover {
   align-items: center;
 }
 
-.hero-area-video .block {
+.bg-cover-video .block {
   color: #fff;
   text-align: center;
 }
 
-.hero-area-video .block h1 {
+.bg-cover-video .block h1 {
   font-size: 60px;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
-.hero-area-video .block p {
+.bg-cover-video .block p {
   color: #fff;
   text-transform: uppercase;
   font-size: 12px;
@@ -531,7 +531,7 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.hero-area-video .block .btn-main {
+.bg-cover-video .block .btn-main {
   margin-top: 20px;
 }
 

@@ -2,8 +2,10 @@
 contact:
   enable : true
   title : Contact
-  subtitle : Contact Details
+  subtitle :
   content : 
+  image : images/contact/contact.jpg
+  image_webp : images/contact/contact.jpg
 
   # Contact details
   contact_list:
