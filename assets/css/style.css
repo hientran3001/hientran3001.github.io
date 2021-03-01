@@ -455,7 +455,7 @@ a:hover {
 
 .bg-cover .block {
   text-align: center;
-  margin-left: 450px;
+  margin-left: 0%;
   z-index: 99;
 }
 
@@ -790,7 +790,7 @@ a:hover {
 
 .contact-details {
   margin-left: 50px;
-  margin-top: 10px;
+  margin-top: 10%;
 }
 
 .con-info {
@@ -1009,6 +1009,7 @@ a:hover {
 ==================================================================*/
 .achievements-block { 
   height: 400px;
+  width: 350px;
   padding: 60px 20px;
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
@@ -1028,6 +1029,8 @@ a:hover {
   height: 150px;
   left: 15.5685px;
   top: -30.5685px;
+  
+    
   visibility: hidden;
   background-color: red;
   -webkit-transform: rotate(-30deg);
