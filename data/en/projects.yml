@@ -21,15 +21,24 @@ projects:
       tags: Python, Lavarel Homestead, HTML, CSS
       link : "https://github.com/rysnee/AnnotationTool"    
 
-        # projects item loop
+    # projects item loop
     - name : Augmentic Reality
       image : images/projects/ar1.jpg
       image_webp : images/projects/ar1.jpg
       categories : ["Computer Vision"]
       content : An application that get input from laptop webcam, detect images and show 3D model on them.
       tags: Python
-      link : ""   
+      link : "https://drive.google.com/file/d/14G-HGohme2RjjLgfnSTzFTlPZ8B_xZSS/view?usp=sharing"   
    
+    # projects item loop
+    - name : Face Regconition
+      image : images/projects/face-reg.jpg
+      image_webp : images/projects/face-reg.jpg
+      categories : ["Computer Vision"]
+      content : Face Regconition with video input.
+      tags: Python
+      link : "https://drive.google.com/file/d/1zk0mEQl5x7RyFAv-rTrpSMr7PQbA_Jn6/view?usp=sharing"
+    
     # projects item loop
     - name : Robocode Bot
       image : images/projects/robo1.png
@@ -56,3 +65,5 @@ projects:
       content : Visualize Dijkstra Algorithm with plot input which are drawn by users.
       tags: C++, Qt Creator
       link : ""
+
+      
