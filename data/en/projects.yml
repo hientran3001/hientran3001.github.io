@@ -7,7 +7,7 @@ projects:
     - name : Image Retrieval
       image : images/projects/ir2.jpg
       image_webp : images/projects/ir2.jpg
-      categories : ["Web", "Computer Vision"]
+      categories : ["Web app & app", "Computer Vision"]
       content : A website that retrieve top images in database relevant to input image.
       tags: Python, Django, HTML, CSS
       link : "https://github.com/rysnee/DoAn"     
@@ -16,7 +16,7 @@ projects:
     - name : Crowd Counting
       image : images/projects/crowd-counting.jpg
       image_webp : images/projects/crowd-counting.jpg
-      categories : ["Web", "Computer Vision"]
+      categories : ["Web app & app", "Computer Vision"]
       content : Graduate thesis. Build a new database for dense crowd problem, provide baseline & evaluate on this data. Build a web application to annotate data.
       tags: Python, Lavarel Homestead, HTML, CSS
       link : "https://github.com/rysnee/AnnotationTool"    
@@ -46,7 +46,8 @@ projects:
       categories : ["Artificial Intelligence"]
       content : Write AI for the tank game. My tank will shoot and flee other tanks.
       tags: Java
-      link : ""
+      link : "https://drive.google.com/file/d/1QDrJmLxpvPvGf9n2h_5srHLuoFSQufhc/view?usp=sharing"
+      
      
     # projects item loop
     - name : Ragnarok Online
@@ -61,7 +62,7 @@ projects:
     - name : Dijkstra Algorithm Visualization Application
       image : images/projects/djikstra1.jpg
       image_webp : images/projects/djikstra1.jpg
-      categories : ["Application"]
+      categories : ["Web app & app"]
       content : Visualize Dijkstra Algorithm with plot input which are drawn by users.
       tags: C++, Qt Creator
       link : ""
