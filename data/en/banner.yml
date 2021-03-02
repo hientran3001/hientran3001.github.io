@@ -6,8 +6,8 @@ banner:
   icon : "ti-angle-double-down" # themify icon pack : https://themify.me/themify-icons
   title : "TRAN QUANG HIEN"
   quote: "Life is like riding a bicycle. To keep your balance, you must keep moving. - Albert Einstein -"
-  content : "Besides majoring in Computer Vision, I also learned more about website and application programming. As a graduate student, I always want to put the knowledge I learned in school into practice. With the dynamism, creativity and enthusiasm of youth, I hope to do things useful to the community."
+  content : "Besides majoring in Computer Vision, I also learned more about website and application programming. As a graduate student, I always want to put the knowledge I learned in school into practice."
   button:
     enable : true
-    label : "ABOUT ME"
+    label : "CLICK HERE OR SCROLL DOWN"
     link : "#goal"

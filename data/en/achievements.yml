@@ -31,7 +31,7 @@ achievements:
     - name : Advanced youth following Uncle Ho’s sayings
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       image: images/achievement/tntt5.jpg
-      content : Achivem &quot;Advanced youth following Uncle Ho’s sayings&quot yearly.
+      content : Achive &quot;Advanced youth following Uncle Ho’s sayings&quot; yearly.
       
     # achievements item loop
     - name : TOEIC

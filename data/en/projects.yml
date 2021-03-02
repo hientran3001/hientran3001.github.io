@@ -4,59 +4,43 @@ projects:
   title : Projects
   portfolio_item :
     # projects item loop
-    - name : Image Retrieval
-      image : images/projects/ir2.jpg
-      image_webp : images/projects/ir2.jpg
-      categories : ["Web app & app", "Computer Vision"]
-      content : A website that retrieve top images in database relevant to input image.
-      tags: Python, Django, HTML, CSS
-      link : "https://github.com/rysnee/DoAn"     
+    - name : Image Retrieval      
+      categories : ["Web app & app", "Computer Vision"]    
+      link : "https://github.com/rysnee/DoAn" 
+      sites: image-retrieval.md  
 
     # projects item loop
-    - name : Crowd Counting
-      image : images/projects/crowd-counting.jpg
-      image_webp : images/projects/crowd-counting.jpg
-      categories : ["Web app & app", "Computer Vision"]
-      content : Graduate thesis. Build a new database for dense crowd problem, provide baseline & evaluate on this data. Build a web application to annotate data.
-      tags: Python, Lavarel Homestead, HTML, CSS
-      link : "https://github.com/rysnee/AnnotationTool"    
+    - name : Crowd Counting      
+      categories : ["Web app & app", "Computer Vision"]          
+      link : "https://github.com/rysnee/AnnotationTool"  
+      sites: crowd-counting.md     
 
     # projects item loop
-    - name : Augmentic Reality
-      image : images/projects/ar1.jpg
-      image_webp : images/projects/ar1.jpg
-      categories : ["Computer Vision"]
-      content : An application that get input from laptop webcam, detect images and show 3D model on them.
-      tags: Python
+    - name : Augmentic Reality   
+      categories : ["Computer Vision"]     
       link : "https://drive.google.com/file/d/14G-HGohme2RjjLgfnSTzFTlPZ8B_xZSS/view?usp=sharing"   
-   
+      sites: augmented-reality.md  
+
     # projects item loop
-    - name : Face Regconition
-      image : images/projects/face-reg.jpg
-      image_webp : images/projects/face-reg.jpg
-      categories : ["Computer Vision"]
-      content : Face Regconition with video input.
-      tags: Python
+    - name : Face Recognition      
+      categories : ["Computer Vision"]     
       link : "https://drive.google.com/file/d/1zk0mEQl5x7RyFAv-rTrpSMr7PQbA_Jn6/view?usp=sharing"
-    
+      sites: face-recognition.md  
+
     # projects item loop
-    - name : Robocode Bot
-      image : images/projects/robo1.png
-      image_webp : images/projects/robo1.png
-      categories : ["Artificial Intelligence"]
-      content : Write AI for the tank game. My tank will shoot and flee other tanks.
+    - name : Robocode Bot      
+      categories : ["Artificial Intelligence"]      
       tags: Java
       link : "https://drive.google.com/file/d/1QDrJmLxpvPvGf9n2h_5srHLuoFSQufhc/view?usp=sharing"
-      
+      sites: robocode-bot.md  
      
     # projects item loop
-    - name : Ragnarok Online
-      image : images/projects/ro.jpg
-      image_webp : images/projects/ro.jpg
+    - name : Ragnarok Online         
       categories : ["Game"]
       content : Run an online server with my own customization based on rAthena (an open-source cross-platform MMORPG server).
       tags: C++, MySQL, HTML, CSS, Ubuntu-server, Google cloud platform
       link : ""
+      sites: ragnarok.md  
 
       # projects item loop
     - name : Dijkstra Algorithm Visualization Application
