@@ -41,14 +41,6 @@ projects:
       tags: C++, MySQL, HTML, CSS, Ubuntu-server, Google cloud platform
       link : ""
       sites: ragnarok.md  
-
-      # projects item loop
-    - name : Dijkstra Algorithm Visualization Application
-      image : images/projects/djikstra1.jpg
-      image_webp : images/projects/djikstra1.jpg
-      categories : ["Web app & app"]
-      content : Visualize Dijkstra Algorithm with plot input which are drawn by users.
-      tags: C++, Qt Creator
-      link : ""
+    
 
       

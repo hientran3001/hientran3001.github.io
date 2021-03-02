@@ -6,9 +6,13 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : Trần Quang Hiển
-      image : images/self/avatar1.jpg
-      image_webp : images/self/avatar1.webp
+      image : images/self/avatar2.jpg
+      image_webp : images/self/avatar2.jpg
       date : January 30, 1998
-      content : abcxyz
+      content : "I'm a team player and always willing to learn new things."
+      
+     
+      
+      
       
   
