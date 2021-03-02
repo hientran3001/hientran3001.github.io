@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python, Lavarel Homestead, HTML, CSS on Tran Quang Hien</title>
+    <link>https://hientran3001.github.io/tags/python-lavarel-homestead-html-css/</link>
+    <description>Recent content in Python, Lavarel Homestead, HTML, CSS on Tran Quang Hien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hientran3001.github.io/tags/python-lavarel-homestead-html-css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crowd Counting</title>
+      <link>https://hientran3001.github.io/projects/crowd-counting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/crowd-counting/</guid>
+      <description>Description This is the graduation thesis. We spent 4 months researching this problem and a semester before preparing research skills.</description>
+    </item>
+    
+  </channel>
+</rss>

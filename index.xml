@@ -26,7 +26,16 @@
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
+      <title>How To Setup Meghna Hugo</title>
+      <link>https://hientran3001.github.io/projects/installation/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
+    
+    <item>
+      <title>Simple blog Post</title>
       <link>https://hientran3001.github.io/blog/simple-blog-post-1/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
@@ -35,7 +44,7 @@
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
+      <title>Simple blog Post</title>
       <link>https://hientran3001.github.io/blog/simple-blog-post-2/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
@@ -44,7 +53,7 @@
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
+      <title>Simple blog Post</title>
       <link>https://hientran3001.github.io/blog/simple-blog-post-3/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
@@ -53,7 +62,7 @@
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
+      <title>Simple blog Post</title>
       <link>https://hientran3001.github.io/blog/simple-blog-post-4/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
@@ -62,7 +71,7 @@
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
+      <title>Simple blog Post</title>
       <link>https://hientran3001.github.io/blog/simple-blog-post-5/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
@@ -71,7 +80,7 @@
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
+      <title>Simple blog Post</title>
       <link>https://hientran3001.github.io/blog/simple-blog-post-6/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
@@ -80,12 +89,49 @@
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
+      <title>Simple blog Post</title>
       <link>https://hientran3001.github.io/blog/simple-blog-post-7/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
       <guid>https://hientran3001.github.io/blog/simple-blog-post-7/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality</title>
+      <link>https://hientran3001.github.io/projects/augmented-reality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/augmented-reality/</guid>
+      <description>Description A project named &amp;ldquo;AR for Kid&amp;rdquo;. Although there are many libraries for this problem, we do it from scratch to learn how it works.</description>
+    </item>
+    
+    <item>
+      <title>Crowd Counting</title>
+      <link>https://hientran3001.github.io/projects/crowd-counting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/crowd-counting/</guid>
+      <description>Description This is the graduation thesis. We spent 4 months researching this problem and a semester before preparing research skills.</description>
+    </item>
+    
+    <item>
+      <title>Face Recognition</title>
+      <link>https://hientran3001.github.io/projects/face-recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/face-recognition/</guid>
+      <description>Description The client&amp;rsquo;s face recognition system with a direct viewing angle.
+ Input: A video from camera.</description>
+    </item>
+    
+    <item>
+      <title>Image Retrieval System</title>
+      <link>https://hientran3001.github.io/projects/image-retrieval/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/image-retrieval/</guid>
+      <description>Description This is the project for &amp;ldquo;Multimedia Information Retrival&amp;rdquo; course. We will rank top N relevant images from database to the query image.</description>
     </item>
     
     <item>
@@ -104,6 +150,24 @@
       
       <guid>https://hientran3001.github.io/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Ragnarok Online</title>
+      <link>https://hientran3001.github.io/projects/ragnarok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/ragnarok/</guid>
+      <description>Description Ragnarok Online (RO) is MMORPG created by Gravity based on the manhwa Ragnarok by Lee Myung-jin.</description>
+    </item>
+    
+    <item>
+      <title>Robocode Bot</title>
+      <link>https://hientran3001.github.io/projects/robocode-bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hientran3001.github.io/projects/robocode-bot/</guid>
+      <description>Description Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .</description>
     </item>
     
   </channel>
