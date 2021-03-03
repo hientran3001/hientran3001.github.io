@@ -4,7 +4,7 @@ dates: 05/2018
 image : images/projects/robo1.png    
 author: Tran Quang Hien, Nguyen Cao Nguyen Lam, Nguyen Tran Thanh Nam, Phan Quoc Tuan
 description : Write AI for the tank game. My tank will shoot and flee other tanks.
-tags: Python 
+tags: Java
 ---
 
 ## Description

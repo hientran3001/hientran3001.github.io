@@ -23,7 +23,7 @@ skill:
       percent : 90%
       
     - name :  Problem analysis & solving
-      percent : 90%
+      percent : 80%
       
     # skill item loop
     - name :  Adaptability

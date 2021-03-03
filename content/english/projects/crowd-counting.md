@@ -4,7 +4,7 @@ dates: 03-08/2020
 image : images/projects/crowd-counting.jpg
 author: Tran Quang Hien, Nguyen Phan Khiet Thanh
 description : "Graduation thesis. Research problem, build database, baseline, annotation tool."
-tags: Python, Lavarel Homestead, HTML, CSS 
+tags: Python, Laravel Homestead, HTML, CSS 
 ---
 
 ## Description
@@ -40,12 +40,12 @@ In the end, we evaluate the baseline and record the results (show in slides).
 ## Tech stack
 #### Python
 Main language to train model and evaluate baseline.
-#### Lavarel Homestead
+#### Laravel Homestead
 Use to build a annotation web app.
 
 ## Lesson
 * Learnt research skills: survey a problem, datasets, current methods; reading documents; find the way to solve the problem;
-* Learnt to build a web app with Lavarel Homestead.
+* Learnt to build a web app with Laravel Homestead.
 
 ## Source Code of Annotate Tool
 [Github](https://github.com/rysnee/AnnotationTool)

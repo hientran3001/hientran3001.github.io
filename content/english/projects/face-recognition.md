@@ -3,7 +3,7 @@ title: "Face Recognition"
 dates: 06/2019
 image : images/projects/face-reg.jpg    
 author: Tran Quang Hien, Phan Quoc Tuan, Nguyen Thanh Trung
-description : Realtime Face Detection and Regconition with video input.
+description : Realtime Face Detection and Recognition with video input.
 tags: Python 
 ---
 
@@ -26,7 +26,7 @@ Main language for computer vision task.
 ## Lesson
 * Learnt face detection models.
 * Learnt feature extraction models.
-* Learnt retrival methods.
+* Learnt retrieval methods.
 
 ## Source Code
 [Google Drive](https://drive.google.com/file/d/1zk0mEQl5x7RyFAv-rTrpSMr7PQbA_Jn6/view?usp=sharing)
