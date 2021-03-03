@@ -25,14 +25,5 @@
  Input: A video from camera.</description>
     </item>
     
-    <item>
-      <title>Robocode Bot</title>
-      <link>https://hientran3001.github.io/projects/robocode-bot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hientran3001.github.io/projects/robocode-bot/</guid>
-      <description>Description Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .</description>
-    </item>
-    
   </channel>
 </rss>

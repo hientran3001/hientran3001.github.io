@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python, Lavarel Homestead, HTML, CSS on Tran Quang Hien</title>
-    <link>https://hientran3001.github.io/tags/python-lavarel-homestead-html-css/</link>
-    <description>Recent content in Python, Lavarel Homestead, HTML, CSS on Tran Quang Hien</description>
+    <title>Python, Laravel Homestead, HTML, CSS on Tran Quang Hien</title>
+    <link>https://hientran3001.github.io/tags/python-laravel-homestead-html-css/</link>
+    <description>Recent content in Python, Laravel Homestead, HTML, CSS on Tran Quang Hien</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hientran3001.github.io/tags/python-lavarel-homestead-html-css/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hientran3001.github.io/tags/python-laravel-homestead-html-css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crowd Counting</title>
       <link>https://hientran3001.github.io/projects/crowd-counting/</link>
